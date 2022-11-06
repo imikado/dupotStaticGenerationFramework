@@ -1,7 +1,9 @@
 {
     "name": "dupot/static-generation-framework",
-    "description": "generation of static website",
+    "description": "framework to generate static website",
+    "license": "LGPL-3.0-only",
     "type": "library",
+    "homepage": "https://www.dupot.org",
     "autoload": {
         "psr-4": {
             "Dupot\\StaticGenerationFramework\\": "src/"
@@ -9,9 +11,12 @@
     },
     "authors": [
         {
-            "name": "mika",
-            "email": "imikado@gmail.com"
+            "name": "Michael Bertocchi",
+            "email": "imikado@gmail.com",
+            "homepage": "https://www.dupot.org",
+            "role": "Developer"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
