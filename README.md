@@ -1,4 +1,4 @@
-# dupotStaticGenerationFramework
+# Dupot static-generation-framework
 
 Framework which help you to generate static website (like Github pages )
 
