@@ -1,0 +1,17 @@
+{
+    "name": "dupot/static-generation-framework",
+    "description": "generation of static website",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dupot\\StaticGenerationFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mika",
+            "email": "imikado@gmail.com"
+        }
+    ],
+    "require": {}
+}
