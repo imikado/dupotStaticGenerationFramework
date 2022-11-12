@@ -9,7 +9,7 @@ you can include it in your projet
 ```
 {
    "require":{
-        "dupot/static-generation-framework": "1.*.*"
+        "dupot/static-generation-framework": "2.*.*"
    }
 }
 ```
