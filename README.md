@@ -4,7 +4,7 @@ Framework which help you to generate static website (like Github pages )
 
 # usage
 
-you can include it in your projet
+you can include it in your composer.json 's project
 
 ```
 {
@@ -14,4 +14,10 @@ you can include it in your projet
 }
 ```
 
-or use my skeleton projet to start here https://github.com/imikado/dupotStaticGenerationSkeleton
+Ask composer to install this library
+
+```
+composer require dupot/static-generation-framework
+```
+
+Or use my skeleton project to start here https://github.com/imikado/dupotStaticGenerationSkeleton
